@@ -60,9 +60,7 @@ It supports:
 ## Files Included
 - `data/workforce_planning_daily.csv` – dataset
 - `sql/workforce_analysis.sql` – SQL queries
-- `dashboard/workforce_dashboard.pdf` – exported dashboard
 - `images/dashboard_overview.png` – dashboard screenshot
-- `tableau/workforce_dashboard.twbx` – Tableau workbook, if available
 
 ## Project Outcome
 This project demonstrates the ability to:
